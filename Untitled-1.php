@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Cadastro de Filme e Busca de Filmes</title>
+    <title>Cadastro de Filme e Busca de Filmes formato API Key</title>
 </head>
 <body>
     <h1>Cadastro e Busca de Filmes</h1>
